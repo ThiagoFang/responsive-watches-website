@@ -19,4 +19,8 @@ Thanks [Bendicode](https://github.com/bedimcode)
 
 # [Vizualize aqui](https://thiagofang.github.io/responsive-whatches-wesite/)
 
+![preview](Preview1.png)
+![preview](Preview2.png)
+![preview](Preview3.png)
+
 
