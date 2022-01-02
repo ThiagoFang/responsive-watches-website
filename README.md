@@ -17,7 +17,7 @@ All credits from this layout and code for [Bendicode](https://www.youtube.com/c/
 
 Thanks [Bendicode](https://github.com/bedimcode)
 
-# [Vizualize aqui](https://thiagofang.github.io/responsive-whatches-wesite/)
+# [Vizualize aqui](https://thiagofang.github.io/responsive-watches-website/)
 
 ![preview](Preview1.png)
 ![preview](Preview2.png)
